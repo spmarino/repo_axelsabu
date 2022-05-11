@@ -1,0 +1,26 @@
+[
+    {
+      "id" : 1,
+      "nombre" : "Camisa",
+      "precio" : 10,
+      "categorias" : "indumentaria",
+      "imagen" : "",
+      "description" : "Camisa de algodon"
+    },
+    {
+      "id" : 2,
+      "nombre" : "Pantalon",
+      "precio" : 20,
+      "categorias" : "calzado",
+      "imagen" : "",
+      "description" : "Pantalon de algodon"
+    },
+    {
+      "id" : 3,
+      "nombre" : "Zapatos",
+      "precio" : 30,
+      "categorias" : "accesorios",
+      "imagen" : "",
+      "description" : "Zapatos de algodon"
+    }
+  ]
